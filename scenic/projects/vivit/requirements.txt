@@ -1,2 +1,3 @@
 dmvr @ git+https://github.com/deepmind/dmvr.git
 seaborn>=0.11.2
+keras==2.11
